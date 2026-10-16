@@ -1,0 +1,1 @@
+Pose Cards images are cropped from the six distinct reference photos supplied in the Closer design screenshot. These images are used only in the Pose Cards category. The current screenshot contains six unique photos, so they are cycled across the 20 pose cards. Replace pose-01.jpg through pose-20.jpg with your own licensed images anytime, keeping the filenames unchanged.
